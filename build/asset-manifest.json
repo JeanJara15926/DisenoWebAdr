@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DisenoWebAdr/static/css/main.270173d1.chunk.css",
+    "main.js": "/DisenoWebAdr/static/js/main.f6746a43.chunk.js",
+    "main.js.map": "/DisenoWebAdr/static/js/main.f6746a43.chunk.js.map",
+    "runtime-main.js": "/DisenoWebAdr/static/js/runtime-main.a1693c24.js",
+    "runtime-main.js.map": "/DisenoWebAdr/static/js/runtime-main.a1693c24.js.map",
+    "static/js/2.9cfd99cc.chunk.js": "/DisenoWebAdr/static/js/2.9cfd99cc.chunk.js",
+    "static/js/2.9cfd99cc.chunk.js.map": "/DisenoWebAdr/static/js/2.9cfd99cc.chunk.js.map",
+    "index.html": "/DisenoWebAdr/index.html",
+    "static/css/main.270173d1.chunk.css.map": "/DisenoWebAdr/static/css/main.270173d1.chunk.css.map",
+    "static/js/2.9cfd99cc.chunk.js.LICENSE.txt": "/DisenoWebAdr/static/js/2.9cfd99cc.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/DisenoWebAdr/static/media/profile.8a701d40.jpg",
+    "static/media/svg-1.svg": "/DisenoWebAdr/static/media/svg-1.c9c88a21.svg",
+    "static/media/svg-2.svg": "/DisenoWebAdr/static/media/svg-2.882a2cd5.svg",
+    "static/media/svg-3.svg": "/DisenoWebAdr/static/media/svg-3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1693c24.js",
+    "static/js/2.9cfd99cc.chunk.js",
+    "static/css/main.270173d1.chunk.css",
+    "static/js/main.f6746a43.chunk.js"
+  ]
+}
